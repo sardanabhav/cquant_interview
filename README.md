@@ -3,7 +3,7 @@ CQUANT - Energy Analyst - Analytical Tasks
 Clone the github repository
 
 Before running, make sure the current working directory is "cquant_interview"
-If running the code on linux machine, make sure to replace "\\\" by "/"
+If running the code on linux machine, make sure to replace "\\\\" by "/"
 
 The tasks were done in python. Following packages are required for the code to run:
 pandas
